@@ -14,3 +14,4 @@
 - Department: Department of Business Administration
 - Faculty: Faculty of Management Sciences
 - Prince of Songkla University Hat Yai Campus
+
